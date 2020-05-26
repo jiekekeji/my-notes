@@ -1,0 +1,10 @@
+{
+  "title": "我的笔记",
+  "author": "Jack",
+  "description": "平时的一些笔记",
+  "language": "zh-hans",
+  "plugins": [
+  	"expandable-chapters",
+    "chapter-fold"
+  ]
+}
